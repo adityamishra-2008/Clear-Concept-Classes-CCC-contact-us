@@ -8,7 +8,7 @@
     
     <title>Document</title>
     <link rel="stylesheet" href="style.css">
-    <link rel="stylesheet" href="nav.css">
+   
     <link rel="stylesheet" href="style_2.css">
 </head>
 <body>
