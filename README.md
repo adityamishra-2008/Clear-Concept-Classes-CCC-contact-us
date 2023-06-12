@@ -6,7 +6,7 @@
 
     <script src="https://code.jquery.com/jquery-3.4.1.js"></script>
     
-    <title>Document</title>
+    <title>Clear Concept Classes (CCC) </title>
     <link rel="stylesheet" href="style.css">
    
     <link rel="stylesheet" href="style_2.css">
@@ -18,7 +18,8 @@
   
 
 <div class="contact_us_6">
-  <button class="back" >  <a href="https://www.w3schools.com/" target="_self"><img src="1686468819808.png" class="mobile_home_image" alt=""></a></button>
+  
+
   <div class="responsive-container-block container">
     <form class="form-box">
       <div class="container-block form-wrapper">
